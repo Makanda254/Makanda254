@@ -2,5 +2,6 @@
 
 - 💬 Ask me about JavaScript, Python and Sql
 - 📫 How to reach me: [Gmail](victormakanda254@gmail.com)
-- ⚡ Fun fact: ...
+- ⚡ LinkedIn: [LinkedIn](https://www.linkedin.com/in/victor-john-makanda/)
+- ⚡ Fun fact: AI is the future
 
